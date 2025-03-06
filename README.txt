@@ -44,7 +44,7 @@ The project contains several test classes that cover creating, deleting, retriev
 ## Running Tests
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/yourusername/BookingCheck.git
+   git clone https://github.com/oleksiis27/BookingCheck.git
 2. **Navigate** to the project folder:
     cd BookingCheck
 3. **Run tests** with Gradle:
