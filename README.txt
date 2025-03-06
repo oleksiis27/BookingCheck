@@ -1,7 +1,7 @@
 # BookingCheck
 
 This is a learning project for testing the [restful-booker](https://restful-booker.herokuapp.com/) API.
-It includes automated tests written in **Java** using **Rest Assured**, **JUnit 5**, **Allure**, **Lombok**, **JavaFaker** and **Gradle**.
+It includes automated tests written in **Java** using **Rest Assured**, **JUnit 5**, **Allure**, **Lombok**, **Slf4j**, **JavaFaker** and **Gradle**.
 
 ## Overview
 The project contains several test classes that cover creating, deleting, retrieving, and updating bookings:
@@ -28,6 +28,7 @@ The project contains several test classes that cover creating, deleting, retriev
 - **JUnit 5** (for test framework)
 - **Allure** (for reporting)
 - **Lombok** (to reduce boilerplate code)
+- **Slf4j** (for logging)
 -**JavaFaker** (for random data generating)
 
 ## Project Structure
